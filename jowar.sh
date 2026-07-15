@@ -1,2 +1,1 @@
-this file is related to jowar
-jowar flour
+this file is related to jowar 
